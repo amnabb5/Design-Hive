@@ -33,13 +33,7 @@ Welcome to **Design Hive** — a buzzing creative studio where innovative ideas 
 ---
 
 ## 📸 Preview
+![message (3)](https://github.com/user-attachments/assets/6f1e008c-f812-40e2-a3d8-aaf05b8c296c)
 
-![Design Hive Preview](https://your-image-link.com/preview.jpg)
 
-> _*Replace this with a screenshot or link to your live site*_  
-> _Optional: [Live Demo](https://your-live-link.com)_
-
----
-
-## 📁 Folder Structure
 
